@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baith6", "Baith6\Baith6.csproj", "{BEB330D5-AE01-4967-B4D9-F0DAEE40BED0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEB330D5-AE01-4967-B4D9-F0DAEE40BED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB330D5-AE01-4967-B4D9-F0DAEE40BED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB330D5-AE01-4967-B4D9-F0DAEE40BED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB330D5-AE01-4967-B4D9-F0DAEE40BED0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {587361C2-6DFB-457C-B3E2-6932DDCC2D17}
+	EndGlobalSection
+EndGlobal
